@@ -1,0 +1,6 @@
+com\project\repository\IartistRepository.class
+com\project\SpringBootJPaCrudRepositoryApplication.class
+com\project\service\IartistManagementService.class
+com\project\runner\CrudRepositoryTestRunner.class
+com\project\service\artistManagementServiceImplementation.class
+com\project\entity\Artist.class
